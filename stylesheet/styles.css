@@ -413,3 +413,99 @@ background-color: #FFFFFF;
 border-radius: 5%;
 
 }
+.future-{
+    position: absolute;
+width: 148px;
+height: 53px;
+left: 230px;
+top: 2782.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #F8F8F8;
+}
+
+
+.ftr{
+    position: absolute;
+width: 485px;
+height: 78px;
+left: 230px;
+top: 2851.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #F8F8F8;
+}
+
+.email{
+    position: absolute;
+width: 184px;
+height: 26px;
+left: 230px;
+top: 2953.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #F8F8F8;
+}
+
+.phone{
+    position: absolute;
+width: 186px;
+height: 26px;
+left: 230px;
+top: 2995.26px;
+color: #F8F8F8;
+
+
+}
+
+form{
+    position: absolute;
+width: 325px;
+height: 204px;
+left: 1046px;
+top: 2782.26px;
+color: #F8F8F8;
+
+}
+.dark{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2652.26px;
+}
+.lbl{
+    font-family: 'Work Sans';
+font-style: normal;
+font-size: 25px;
+
+}
+.sub{
+    color: #F15B22;
+    background-color: #F8F8F8;
+    padding-top: 5px;
+    border-radius: 5%;
+    position: absolute;
+    width: 170.11px;
+    height: 64px;
+}
+.mail-{
+    padding-bottom: 5px;
+    position: absolute;
+width: 300px;
+height: 30px;
+}
+
+
